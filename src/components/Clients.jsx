@@ -5,34 +5,14 @@ function Clients() {
         Some of out clients
       </h1>
       <div className="flex flex-col items-center justify-center mx-auto p-10 space-y-10 md:flex-row md:space-y-0 md:space-x-10">
-        <img
-          src="../../public/assets/logo-the-verge.png"
-          alt=""
-          className="h-6"
-        />
-        <img
-          src="../../public/assets/logo-jakarta-post.png"
-          alt=""
-          className="h-6"
-        />
-        <img
-          src="../../public/assets/logo-the-guardian.png"
-          alt=""
-          className="h-6"
-        />
-        <img
-          src="../../public/assets/logo-tech-radar.png"
-          alt=""
-          className="h-6"
-        />
-        <img
-          src="../../public/assets/logo-gadgets-now.png"
-          alt=""
-          className="h-10"
-        />
+        <img src="/assets/logo-the-verge.png" alt="" className="h-6" />
+        <img src="/assets/logo-jakarta-post.png" alt="" className="h-6" />
+        <img src="/assets/logo-the-guardian.png" alt="" className="h-6" />
+        <img src="/assets/logo-tech-radar.png" alt="" className="h-6" />
+        <img src="/assets/logo-gadgets-now.png" alt="" className="h-10" />
       </div>
       <div className="absolute -top-36 -left-28">
-        <img src="../../public/assets/bg-pattern-home-3.svg" alt="" />
+        <img src="/assets/bg-pattern-home-3.svg" alt="" />
       </div>
     </div>
   );

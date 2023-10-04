@@ -7,7 +7,7 @@ function Features() {
         </h1>
         <div className="absolute -top-7 -right-28 ">
           <img
-            src="../../public/assets/bg-pattern-home-3.svg"
+            src="/assets/bg-pattern-home-3.svg"
             className="scale-90"
             alt=""
           />
@@ -15,7 +15,7 @@ function Features() {
 
         <div className="flex flex-col items-center justify-center space-y-10 pt-12 lg:pt-0">
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/assets/icon-person.svg" alt="" />
+            <img src="/assets/icon-person.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Experienced Individuals
@@ -27,7 +27,7 @@ function Features() {
             </div>
           </div>
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/assets/icon-cog.svg" alt="" />
+            <img src="/assets/icon-cog.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Easy to Implement
@@ -39,7 +39,7 @@ function Features() {
             </div>
           </div>
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/assets/icon-chart.svg" alt="" />
+            <img src="/assets/icon-chart.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Enchanced Productivity

@@ -18,12 +18,12 @@ function Stories() {
             <p className="text-xl font-bold text-raptureBlue">Kady Baker</p>
             <p className="text-sm italic">Product Manager at Bookmark</p>
             <img
-              src="../../public/assets/avatar-kady.jpg"
+              src="/assets/avatar-kady.jpg"
               alt=""
               className="h-16 rounded-full ring-2 ring-white"
             />
             <div className="absolute z-0 -top-10">
-              <img src="../../public/assets//icon-quotes.svg" alt="" />
+              <img src="/assets//icon-quotes.svg" alt="" />
             </div>
           </div>
           {/* card 2 */}
@@ -36,12 +36,12 @@ function Stories() {
             <p className="text-xl font-bold text-raptureBlue">Aiysha Reese</p>
             <p className="text-sm italic">Founder of Manage</p>
             <img
-              src="../../public/assets/avatar-aiysha.jpg"
+              src="/assets/avatar-aiysha.jpg"
               alt=""
               className="h-16 rounded-full ring-2 ring-white"
             />
             <div className="absolute z-0 -top-10">
-              <img src="../../public/assets//icon-quotes.svg" alt="" />
+              <img src="/assets//icon-quotes.svg" alt="" />
             </div>
           </div>
           {/* card 3 */}
@@ -54,20 +54,20 @@ function Stories() {
             <p className="text-xl font-bold text-raptureBlue">Arthur Clarke</p>
             <p className="text-sm italic">Co-founder of MyPhysio</p>
             <img
-              src="../../public/assets/avatar-arthur.jpg"
+              src="/assets/avatar-arthur.jpg"
               alt=""
               className="h-16 rounded-full ring-2 ring-white"
             />
             <div className="absolute z-0 -top-10">
-              <img src="../../public/assets//icon-quotes.svg" alt="" />
+              <img src="/assets//icon-quotes.svg" alt="" />
             </div>
           </div>
         </div>
         <div className="absolute -top-4 left-0">
-          <img src="../../public/assets/bg-pattern-home-4-about-3.svg" alt="" />
+          <img src="/assets/bg-pattern-home-4-about-3.svg" alt="" />
         </div>
         <div className="absolute bottom-0 right-0">
-          <img src="../../public/assets/bg-pattern-home-5.svg" alt="" />
+          <img src="/assets/bg-pattern-home-5.svg" alt="" />
         </div>
       </div>
     </div>

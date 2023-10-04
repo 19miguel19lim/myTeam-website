@@ -12,10 +12,7 @@ function AboutHero() {
           products and experience. We'll bring those teams to you.
         </p>
         <div className="absolute -bottom-24 -right-24 md:bottom-0 ">
-          <img
-            src="../../public/assets/bg-pattern-about-1-mobile-nav-1.svg"
-            alt=""
-          />
+          <img src="/assets/bg-pattern-about-1-mobile-nav-1.svg" alt="" />
         </div>
       </div>
     </div>

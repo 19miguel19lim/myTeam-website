@@ -8,7 +8,7 @@ function AboutDirectors() {
         {/* card 1 */}
         <div className=" relative flex flex-col items-center justify-center space-y-6 px-6 py-16 bg-darkGreen">
           <img
-            src="../../public/assets/avatar-nikita.jpg"
+            src="/assets/avatar-nikita.jpg"
             alt=""
             className="rounded-full ring-2 ring-white w-20"
           />
@@ -26,7 +26,7 @@ function AboutDirectors() {
         {/* card 2 */}
         <div className=" relative flex flex-col items-center justify-center space-y-6 px-6 py-16 bg-darkGreen">
           <img
-            src="../../public/assets/avatar-christian.jpg"
+            src="/assets/avatar-christian.jpg"
             alt=""
             className="rounded-full ring-2 ring-white w-20"
           />
@@ -44,7 +44,7 @@ function AboutDirectors() {
         {/* card 3 */}
         <div className=" relative flex flex-col items-center justify-center space-y-6 px-6 py-16 bg-darkGreen">
           <img
-            src="../../public/assets/avatar-cruz.jpg"
+            src="/assets/avatar-cruz.jpg"
             alt=""
             className="rounded-full ring-2 ring-white w-20"
           />
@@ -62,7 +62,7 @@ function AboutDirectors() {
         {/* card 4 */}
         <div className=" relative flex flex-col items-center justify-center space-y-6 px-6 py-16 bg-darkGreen">
           <img
-            src="../../public/assets/avatar-drake.jpg"
+            src="/assets/avatar-drake.jpg"
             alt=""
             className="rounded-full ring-2 ring-white w-20"
           />
@@ -80,7 +80,7 @@ function AboutDirectors() {
         {/* card 5 */}
         <div className=" relative flex flex-col items-center justify-center space-y-6 px-6 py-16 bg-darkGreen">
           <img
-            src="../../public/assets/avatar-griffin.jpg"
+            src="/assets/avatar-griffin.jpg"
             alt=""
             className="rounded-full ring-2 ring-white w-20"
           />
@@ -106,8 +106,8 @@ function AboutDirectors() {
               and let them follow it"
             </p>
             <div className="flex space-x-6 mx-auto md:mx-0 pt-4">
-              <img src="../../public/assets/icon-twitter.svg" alt="" />
-              <img src="../../public/assets/icon-linkedin.svg" alt="" />
+              <img src="/assets/icon-twitter.svg" alt="" />
+              <img src="/assets/icon-linkedin.svg" alt="" />
             </div>
           </div>
           <div className="absolute w-16 h-16  rounded-full bg-raptureBlue -bottom-8 hover:bg-lightCoral">
@@ -117,13 +117,10 @@ function AboutDirectors() {
         </div>
       </div>
       <div className="absolute -top-28 -left-24 scale-110">
-        <img
-          src="../../public/assets/bg-pattern-about-2-contact-1.svg"
-          alt=""
-        />
+        <img src="/assets/bg-pattern-about-2-contact-1.svg" alt="" />
       </div>
       <div className="absolute bottom-0 right-0 scale-110">
-        <img src="../../public/assets/bg-pattern-home-4-about-3.svg" alt="" />
+        <img src="/assets/bg-pattern-home-4-about-3.svg" alt="" />
       </div>
     </div>
   );

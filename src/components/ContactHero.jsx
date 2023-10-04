@@ -13,21 +13,21 @@ function ContactHero() {
         <div className="flex flex-col items-center justify-center space-y-24 px-6 lg:flex-row lg:space-y-0 lg:space-x-16 lg:items-start lg:pt-16">
           <div className="flex flex-col items-center justify-center space-y-10 pt-12 lg:pt-0 ">
             <div className="flex  items-center justify-between mx-auto space-x-6 text-start ml-0">
-              <img src="../../public/assets/icon-person.svg" alt="" />
+              <img src="/assets/icon-person.svg" alt="" />
 
               <p className="leading-7 mx-auto font-semibold text-lg  ">
                 The quality of out talent network
               </p>
             </div>
             <div className="flex  items-center  justify-between mx-auto space-x-6 text-start ml-0 ">
-              <img src="../../public/assets/icon-cog.svg" alt="" />
+              <img src="/assets/icon-cog.svg" alt="" />
 
               <p className="leading-7  max-w-sm mx-auto font-semibold text-lg lg:text-left md:max-w-lg ">
                 Usage & implementation of our software
               </p>
             </div>
             <div className="flex  items-center  justify-between mx-auto space-x-6 text-start ml-0 ">
-              <img src="../../public/assets/icon-chart.svg" alt="" />
+              <img src="/assets/icon-chart.svg" alt="" />
 
               <p className="leading-7  max-w-sm mx-auto font-semibold text-lg lg:text-left md:max-w-lg ">
                 How we help drive innovation
@@ -40,7 +40,7 @@ function ContactHero() {
       </div>
 
       <div className="absolute scale-150 -bottom-24 -right-24  ">
-        <img src="../../public/assets/bg-pattern-contact-2.svg" alt="" />
+        <img src="/assets/bg-pattern-contact-2.svg" alt="" />
       </div>
     </div>
   );

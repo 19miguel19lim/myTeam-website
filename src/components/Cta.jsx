@@ -14,7 +14,7 @@ function Cta() {
           contact us
         </Link>
         <div className="absolute bottom-0 left-0">
-          <img src="../../public/assets/bg-pattern-home-6-about-5.svg" alt="" />
+          <img src="/assets/bg-pattern-home-6-about-5.svg" alt="" />
         </div>
       </div>
     </div>
