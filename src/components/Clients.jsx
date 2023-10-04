@@ -6,33 +6,33 @@ function Clients() {
       </h1>
       <div className="flex flex-col items-center justify-center mx-auto p-10 space-y-10 md:flex-row md:space-y-0 md:space-x-10">
         <img
-          src="../../public/images/logo-the-verge.png"
+          src="../../public/assets/logo-the-verge.png"
           alt=""
           className="h-6"
         />
         <img
-          src="../../public/images/logo-jakarta-post.png"
+          src="../../public/assets/logo-jakarta-post.png"
           alt=""
           className="h-6"
         />
         <img
-          src="../../public/images/logo-the-guardian.png"
+          src="../../public/assets/logo-the-guardian.png"
           alt=""
           className="h-6"
         />
         <img
-          src="../../public/images/logo-tech-radar.png"
+          src="../../public/assets/logo-tech-radar.png"
           alt=""
           className="h-6"
         />
         <img
-          src="../../public/images/logo-gadgets-now.png"
+          src="../../public/assets/logo-gadgets-now.png"
           alt=""
           className="h-10"
         />
       </div>
       <div className="absolute -top-36 -left-28">
-        <img src="../../public/images/bg-pattern-home-3.svg" alt="" />
+        <img src="../../public/assets/bg-pattern-home-3.svg" alt="" />
       </div>
     </div>
   );

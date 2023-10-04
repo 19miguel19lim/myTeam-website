@@ -13,7 +13,7 @@ function AboutHero() {
         </p>
         <div className="absolute -bottom-24 -right-24 md:bottom-0 ">
           <img
-            src="../../public/images/bg-pattern-about-1-mobile-nav-1.svg"
+            src="../../public/assets/bg-pattern-about-1-mobile-nav-1.svg"
             alt=""
           />
         </div>

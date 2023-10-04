@@ -1,13 +1,13 @@
 function Features() {
   return (
     <div className="bg-sacramentoGreen ">
-      <div className="flex flex-col items-center-justify-center pb-20 pt-12  mx-auto max-w-7xl  text-center text-white  p-6 space-y-4  relative overflow-hidden lg:flex-row lg:space-y-0 lg:space-x-12 lg:pt-32 lg:pr-32">
+      <div className="flex flex-col items-center-justify-center pb-20 pt-12  mx-auto max-w-7xl  text-center text-white  p-6 space-y-4  relative overflow  lg:flex-row lg:space-y-0 lg:space-x-12 lg:pt-32 lg:pr-32">
         <h1 className="py-4 text-2xl font-bold w-[60%] text-start  md:text-3xl  md:w-[70%] lg:w-[50%]">
           Build & manage distributed teams like no one alse
         </h1>
-        <div className="absolute -top-7 -right-28 lg:top-[70%]">
+        <div className="absolute -top-7 -right-28 ">
           <img
-            src="../../public/images/bg-pattern-home-3.svg"
+            src="../../public/assets/bg-pattern-home-3.svg"
             className="scale-90"
             alt=""
           />
@@ -15,7 +15,7 @@ function Features() {
 
         <div className="flex flex-col items-center justify-center space-y-10 pt-12 lg:pt-0">
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/images/icon-person.svg" alt="" />
+            <img src="../../public/assets/icon-person.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Experienced Individuals
@@ -27,7 +27,7 @@ function Features() {
             </div>
           </div>
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/images/icon-cog.svg" alt="" />
+            <img src="../../public/assets/icon-cog.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Easy to Implement
@@ -39,7 +39,7 @@ function Features() {
             </div>
           </div>
           <div className="flex flex-col items-center justify-center mx-auto space-y-4 md:flex-row md:space-y-0 md:space-x-12 md:text-start md:ml-0 ">
-            <img src="../../public/images/icon-chart.svg" alt="" />
+            <img src="../../public/assets/icon-chart.svg" alt="" />
             <div className="md:space-y-3">
               <p className="text-xl px-6 font-semibold text-lightCoral md:px-0">
                 Enchanced Productivity

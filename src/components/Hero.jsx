@@ -11,11 +11,11 @@ function Hero() {
           talent. We're about to change that
         </p>
         <div className="absolute bottom-0 md:left-[27%] lg:left-[60%]">
-          <img src="../../public/images/bg-pattern-home-2.svg" alt="" />
+          <img src="../../public/assets/bg-pattern-home-2.svg" alt="" />
         </div>
         <div className="absolute left-[-100%] lg:-left-16 lg:top-25 ">
           <img
-            src="../../public/images/bg-pattern-home-1.svg"
+            src="../../public/assets/bg-pattern-home-1.svg"
             alt=""
             className="h-32"
           />

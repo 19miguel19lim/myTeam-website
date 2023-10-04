@@ -26,9 +26,9 @@ function Footer() {
         <div className="flex flex-col space-y-4 pt-8 items-center text-gray-600 md:col-span-2 md:flex-row md:space-y-0 md:justify-between lg:col-span-1 lg:flex-col lg:items-end lg:pt-0 lg:space-y-12">
           {/* logos */}
           <div className="flex  space-x-4 mx-auto md:mx-0">
-            <img src="../../public/images/icon-facebook.svg" alt="" />
-            <img src="../../public/images/icon-pinterest.svg" alt="" />
-            <img src="../../public/images/icon-twitter.svg" alt="" />
+            <img src="../../public/assets/icon-facebook.svg" alt="" />
+            <img src="../../public/assets/icon-pinterest.svg" alt="" />
+            <img src="../../public/assets/icon-twitter.svg" alt="" />
           </div>
           {/* Copyright */}
           <p>Copyright &copy; 2020. All Rights Reserved</p>
